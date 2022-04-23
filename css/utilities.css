@@ -1,0 +1,149 @@
+/* Colors */
+
+.bg-primary{
+    background: rgb(10, 47, 141);
+}
+
+.bg-secondary{
+    background:rgb(5, 53, 156);
+}
+
+.text-primary{
+    color: rgb(10, 47, 141);
+}
+
+.text-secondary{
+    color:rgb(5, 53, 156);
+}
+
+.highlight{
+    color: rgb(4, 203, 127);
+}
+
+.btn-primary{
+    background: rgb(10, 47, 141);
+}
+
+.btn-secondary{
+    background: rgb(5, 53, 156);
+}
+
+.btn-dark{
+    background: rgb(30, 30, 30);
+}
+
+.bg-dark{
+    background: rgb(0, 0, 24);
+    color: #fff;
+}
+
+/* Margin */
+
+.mx-1{
+    margin: 0 1rem;
+}
+
+.mx-2{
+    margin: 0 1.5rem;
+}
+
+.mx-1{
+    margin: 0 2rem;
+}
+
+.mx-2{
+    margin: 0 3rem;
+}
+
+.mx-5{
+    margin: 0 4rem;
+}
+
+.my-1{
+    margin: 1rem 0;
+}
+
+.my-2{
+    margin: 1.5rem 0;
+}
+
+.my-1{
+    margin: 2rem 0;
+}
+
+.my-2{
+    margin: 3rem 0;
+}
+
+.my-5{
+    margin:4rem 0;
+}
+
+
+/* Padding */
+.px-1{
+    padding: 0 1rem;
+}
+
+.px-2{
+    padding: 0 1.5rem;
+}
+
+.px-3{
+    padding: 0 2rem;
+}
+
+.px-4{
+    padding: 0 3rem;
+}
+
+.px-5{
+    padding: 0 4rem;
+}
+
+
+.py-1{
+    padding: 1rem 0;
+}
+
+.py-2{
+    padding: 1.5rem 0;
+}
+
+.py-3{
+    padding: 2rem 0;
+}
+
+.py-4{
+    padding:3rem 0;
+}
+
+.py-5{
+    padding:4rem 0;
+}
+
+/* Card */
+.card{
+    background:rgb(10, 47, 141);
+    border-radius: 0.9rem;
+    color: #fff;
+    padding: 1rem;
+    box-shadow: rgba(0,0,0,0.5) 1px 1px 0 0;
+}
+
+/* Hover effect */
+
+.grid-box{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+
+
+.flex{
+    display:flex;
+}
+
+.input-box{
+    width: 100%;
+    margin-bottom: 1.3rem;
+}
